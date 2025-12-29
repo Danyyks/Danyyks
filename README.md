@@ -1,24 +1,27 @@
 <img width="222" height="306" alt="Captura de tela 2025-12-29 095101" src="https://github.com/user-attachments/assets/4596a328-7b8b-4c37-8d17-1df3f15befc6" />
 
-<h1 align="center">Olá 👋, sou o Dany</h1>
-<h3 align="center">👨🏻‍💻 Desenvolvedor Full-Stack em formação!</h3>
+# Hi 👋, I'm Dany Bueno
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyyks&label=Profile%20views&color=0e75b6&style=flat" alt="danyyks" /> </p>
+### 🧑‍💻 Dev Full-Stack em formação!
 
-- 🔭 Atualmente estou trabalhando no [devlinks](https://github.com/Danyyks/devlinks)
+- 🔭 I'm currently working on **meu projeto devlinks
+https://github.com/Danyyks/devlinks**
 
-- 💬 Pergunte-me sobre **Javascript e Java**
+- 🌱 I'm currently learning **JavaScript e Java**
 
-- 📫 Contato **danyy.jonathan@gmail.com**
+- 📫 How to reach me **danyy.jonathan@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+- ⚡ Fun fact **🎮 Jogo uns games/ ✏️ Desenho como hobby/ 📺 Maratonista de séries**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a <a href="https://linkedin.com/in/danyyjonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyyjonathan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danyyjonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyyjonathan" height="30" width="40" /></a>
 <a href="https://instagram.com/danyyjonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danyyjonathan" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
+
 
 
 
