@@ -2,7 +2,7 @@
 
 **`Futuro desenvolvedor FullStack`**
 
-Eu me chamo Dany Jonathan Bueno, tenho 34 anos e sou de São Roque - SP. Atualmente, estou cursando análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi e também faço cursos na Rocketseat e Senai.
+Eu me chamo Dany Jonathan Bueno, tenho 34 anos e sou de São Roque - SP. Atualmente, estou cursando análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi e também faço cursos na Rocketseat, Hashtag e Senai.
 
 ## 🤖 Tecnologias & Linguagens que estou estudando
 
