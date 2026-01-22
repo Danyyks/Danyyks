@@ -2,7 +2,7 @@
 
 **`Futuro desenvolvedor Back-end`**
 
-Eu me chamo Dany Jonathan Bueno, tenho 34 anos e sou de São Roque - SP. Atualmente, estou cursando análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi e também faço cursos na Rocketseat, Hashtag e Senai.
+Eu me chamo Dany Jonathan Bueno, tenho 34 anos e sou de São Roque - SP. Atualmente, estou cursando análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi e também faço cursos na Rocketseat, Hashtag e Senai 🚀
 
 ## 🤖 Tecnologias & Linguagens que estou estudando
 
@@ -35,7 +35,7 @@ align="left"
   width="30px"
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   />
-  <img
+<img
   align="left"
   alt="java"
   title="java"
