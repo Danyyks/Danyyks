@@ -43,15 +43,6 @@ align="left"
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />\
 
-## Minhas tecnologias!
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyyks&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake-dark.svg">
