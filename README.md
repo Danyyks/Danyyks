@@ -41,7 +41,7 @@ align="left"
   title="java"
   width="30px"
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />\
+  />
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake-dark.svg">
