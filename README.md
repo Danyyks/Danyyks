@@ -12,11 +12,11 @@
 
 ## 👋 Sobre mim
 
-Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi e também faço cursos na **Rocketseat** e no **Senai** 🚀
+Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Hoje estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi e, de quebra, faço cursos na **Rocketseat** e no **Senai** pra acelerar o aprendizado.
 
-- 🌱 Estou aprofundando meus conhecimentos em desenvolvimento web e back-end
-- 💡 Apaixonado por resolver problemas e aprender coisas novas todos os dias
-- 📫 Como me encontrar: veja a seção de [contato](#-contato) abaixo
+No momento estou mergulhando de cabeça em desenvolvimento web e back-end. O que mais me motiva é pegar um problema, virar de cabeça pra baixo até entender e fazer funcionar — e sempre sair com algo novo aprendido no caminho.
+
+Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali na seção de [contatos](#-contatos-e-redes-sociais).
 
 ---
 
@@ -74,13 +74,13 @@ Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Atualmente, es
 
 ---
 
-## 📫 Contato
+## 📫 Contatos e redes sociais
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyyjonathan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danyyjonathan)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@danyyjonathan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danyyjonathan)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danyyyjonathan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933400707)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyy.jonathan@gmail.com)
