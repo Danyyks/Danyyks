@@ -60,16 +60,6 @@ Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Atualmente, es
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Danyyks&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 🚀 Ritmo de commits
 
 <div align="center">
@@ -84,29 +74,15 @@ Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Atualmente, es
 
 ---
 
-## 💭 Quote do dia
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyyjonathan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danyyjonathan)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@danyyjonathan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danyyyjonathan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933400707)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyy.jonathan@gmail.com)
-
-</div>
-
-<div align="center">
-
-⭐️ De [Danyyks](https://github.com/Danyyks)
 
 </div>
