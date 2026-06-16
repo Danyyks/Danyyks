@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🧑🏻‍💻 Dany Jonathan Bueno
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=46&duration=4000&pause=99999&color=7AA2F7&center=true&vCenter=true&repeat=false&width=650&height=80&lines=Dany+Jonathan+Bueno" alt="Dany Jonathan Bueno" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Futuro+Dev+%F0%9F%9A%80;Estudante+de+ADS;Sempre+aprendendo+algo+novo;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=Futuro+Dev+%F0%9F%9A%80;Estudante+de+ADS;Sempre+aprendendo+algo+novo;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+Python)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danyyks&label=Visitas%20no%20perfil&color=7aa2f7&style=flat-square)
 
 </div>
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 👋 Sobre mim
 
@@ -18,7 +18,7 @@ No momento estou mergulhando de cabeça em desenvolvimento web e back-end. O que
 
 Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali na seção de [contatos](#-contatos-e-redes-sociais).
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -36,7 +36,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 📊 Minhas estatísticas
 
@@ -47,7 +47,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 
 </div>
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 📚 Linguagens em destaque
 
@@ -58,7 +58,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 
 </div>
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 🚀 Ritmo de commits
 
@@ -72,7 +72,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 
 </div>
 
----
+<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
 ## 📫 Contatos e redes sociais
 
