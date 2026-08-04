@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=46&duration=4000&pause=99999&color=7AA2F7&center=true&vCenter=true&repeat=false&width=650&height=80&lines=Dany+Jonathan+Bueno" alt="Dany Jonathan Bueno" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=50&lines=Futuro+Dev+%F0%9F%9A%80;Estudante+de+ADS;Sempre+aprendendo+algo+novo;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%26+Java;APIs%2C+Automa%C3%A7%C3%A3o+e+IA)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Danyyks&label=Visitas%20no%20perfil&color=7aa2f7&style=flat-square)
 
@@ -12,11 +12,11 @@
 
 ## 👋 Sobre mim
 
-Eu me chamo **Dany**, tenho 34 anos e sou de **São Roque - SP**. Hoje estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi e, de quebra, faço cursos na **Rocketseat** e no **Senai** pra acelerar o aprendizado.
+Sou o Dany, tenho 34 anos e sou de São Roque - SP. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e me especializando como desenvolvedor backend.
 
-No momento estou mergulhando de cabeça em desenvolvimento web e back-end. O que mais me motiva é pegar um problema, virar de cabeça pra baixo até entender e fazer funcionar — e sempre sair com algo novo aprendido no caminho.
+Trabalho principalmente com Python e Java, construindo APIs, automatizando tarefas e explorando IA aplicada a projetos reais. Gosto de pegar um problema, entender a fundo e sair com algo funcionando — sempre aprendendo algo novo no caminho.
 
-Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali na seção de [contatos](#-contatos-e-redes-sociais).
+Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jornada. Se quiser trocar uma ideia, os contatos estão logo abaixo.
 
 <div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
@@ -25,11 +25,16 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 #### Linguagens
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Inteligência Artificial
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 #### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +47,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danyyks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="./profile/stats.svg" />
 <img height="180em" src="https://streak-stats.demolab.com?user=Danyyks&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -53,8 +58,7 @@ Tá afim de trocar uma ideia ou falar sobre algum projeto? É só me chamar ali 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyyks&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danyyks&theme=tokyonight" />
+<img height="170em" src="./profile/top-langs.svg" />
 
 </div>
 
