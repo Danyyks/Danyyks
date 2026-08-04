@@ -21,14 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: gerar card de estatísticas
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: gerar card de linguagens em destaque
         uses: stats-organization/github-readme-stats-action@v2
         with:

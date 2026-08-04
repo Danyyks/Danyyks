@@ -49,17 +49,6 @@ Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jo
 
 <div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
 
-## 📊 Minhas estatísticas
-
-<div align="center">
-
-<img height="180em" src="./profile/stats.svg" />
-<img height="180em" src="https://streak-stats.demolab.com?user=Danyyks&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪🟦🟪</div>
-
 ## 📚 Linguagens em destaque
 
 <div align="center">
