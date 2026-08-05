@@ -8,8 +8,6 @@
 
 </div>
 
-<img width="100%" height="8" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%2020%22%20preserveAspectRatio%3D%22none%22%3E%3Cpattern%20id%3D%22sq%22%20width%3D%2220%22%20height%3D%2220%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Crect%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%237aa2f7%22%2F%3E%3Crect%20x%3D%2210%22%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%23bb9af7%22%2F%3E%3C%2Fpattern%3E%3Crect%20width%3D%22600%22%20height%3D%2220%22%20fill%3D%22url(%23sq)%22%2F%3E%3C%2Fsvg%3E" alt="" />
-
 ## Sobre mim
 
 Sou o Dany, tenho 34 anos e sou de São Roque - SP. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e me especializando como desenvolvedor backend.
@@ -17,8 +15,6 @@ Sou o Dany, tenho 34 anos e sou de São Roque - SP. Estou cursando Análise e De
 Trabalho principalmente com Python e Java, construindo APIs, automatizando tarefas e explorando IA aplicada a projetos reais. Gosto de pegar um problema, entender a fundo e sair com algo funcionando — sempre aprendendo algo novo no caminho.
 
 Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jornada. Se quiser trocar uma ideia, os contatos estão logo abaixo.
-
-<img width="100%" height="8" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%2020%22%20preserveAspectRatio%3D%22none%22%3E%3Cpattern%20id%3D%22sq%22%20width%3D%2220%22%20height%3D%2220%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Crect%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%237aa2f7%22%2F%3E%3Crect%20x%3D%2210%22%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%23bb9af7%22%2F%3E%3C%2Fpattern%3E%3Crect%20width%3D%22600%22%20height%3D%2220%22%20fill%3D%22url(%23sq)%22%2F%3E%3C%2Fsvg%3E" alt="" />
 
 ## Tecnologias & Ferramentas
 
@@ -47,8 +43,6 @@ Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img width="100%" height="8" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%2020%22%20preserveAspectRatio%3D%22none%22%3E%3Cpattern%20id%3D%22sq%22%20width%3D%2220%22%20height%3D%2220%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Crect%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%237aa2f7%22%2F%3E%3Crect%20x%3D%2210%22%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%23bb9af7%22%2F%3E%3C%2Fpattern%3E%3Crect%20width%3D%22600%22%20height%3D%2220%22%20fill%3D%22url(%23sq)%22%2F%3E%3C%2Fsvg%3E" alt="" />
-
 ## Linguagens em destaque
 
 <div align="center">
@@ -56,8 +50,6 @@ Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jo
 <img height="170em" src="./profile/top-langs.svg" />
 
 </div>
-
-<img width="100%" height="8" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%2020%22%20preserveAspectRatio%3D%22none%22%3E%3Cpattern%20id%3D%22sq%22%20width%3D%2220%22%20height%3D%2220%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Crect%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%237aa2f7%22%2F%3E%3Crect%20x%3D%2210%22%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%23bb9af7%22%2F%3E%3C%2Fpattern%3E%3Crect%20width%3D%22600%22%20height%3D%2220%22%20fill%3D%22url(%23sq)%22%2F%3E%3C%2Fsvg%3E" alt="" />
 
 ## Ritmo de commits
 
@@ -70,8 +62,6 @@ Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jo
 </picture>
 
 </div>
-
-<img width="100%" height="8" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20600%2020%22%20preserveAspectRatio%3D%22none%22%3E%3Cpattern%20id%3D%22sq%22%20width%3D%2220%22%20height%3D%2220%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Crect%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%237aa2f7%22%2F%3E%3Crect%20x%3D%2210%22%20width%3D%2210%22%20height%3D%2220%22%20fill%3D%22%23bb9af7%22%2F%3E%3C%2Fpattern%3E%3Crect%20width%3D%22600%22%20height%3D%2220%22%20fill%3D%22url(%23sq)%22%2F%3E%3C%2Fsvg%3E" alt="" />
 
 ## Contatos e redes sociais
 
