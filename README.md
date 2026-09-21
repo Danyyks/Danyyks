@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-Construindo aplicações, automações e experiências com inteligência artificial.
+_Construindo aplicações, automações e experiências com inteligência artificial._
 
 ---
 
@@ -10,31 +10,31 @@ Construindo aplicações, automações e experiências com inteligência artific
 
 **AI**
 
-![Claude](https://img.shields.io/badge/Claude-1e1e2e?style=flat-square&logo=anthropic&logoColor=D97757)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/Java-1e1e2e?style=flat-square&logo=openjdk&logoColor=E76F00)
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frameworks**
 
-![Next.js](https://img.shields.io/badge/Next.js-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Cloud & Backend**
 
-![Vercel](https://img.shields.io/badge/Vercel-1e1e2e?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1e1e2e?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-1e1e2e?style=flat-square&logo=cloudinary&logoColor=3448C5)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 **Database & Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -42,19 +42,19 @@ Construindo aplicações, automações e experiências com inteligência artific
 
 **Listinha**
 
-Aplicativo de lista de compras inteligente, com inteligência artificial integrada à experiência do usuário.
+Aplicativo que transforma receitas em listas de compras organizadas por categoria, com controle de orçamento em tempo real e sincronização via Google. IA de compras planejada para as próximas versões.
 
 > 🚧 Em desenvolvimento
 
-<!-- Quando o repositório estiver público, adicione o link aqui:
-[→ Ver projeto](URL_DO_REPOSITORIO)
--->
+[→ Ver projeto](https://github.com/Danyyks/Listinha-Android)
 
 ---
 
 ### contato
 
-[LinkedIn](https://linkedin.com/in/danyyjonathan) · [Instagram](https://instagram.com/danyyjonathan) · [Email](mailto:danyy.jonathan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyyjonathan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danyyjonathan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danyy.jonathan@gmail.com)
 
 ---
 
