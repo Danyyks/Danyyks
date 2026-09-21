@@ -1,83 +1,61 @@
-<div align="center">
+# Dany 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=46&duration=4000&pause=99999&color=7AA2F7&center=true&vCenter=true&repeat=false&width=650&height=80&lines=Dany+Jonathan+Bueno" alt="Dany Jonathan Bueno" />
+**Software Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Python+%26+Java;APIs%2C+Automa%C3%A7%C3%A3o+e+IA)](https://git.io/typing-svg)
+Construindo aplicações, automações e experiências com inteligência artificial.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Danyyks&label=Visitas%20no%20perfil&color=7aa2f7&style=flat-square)
+---
 
-</div>
+### stack & ferramentas
 
-## Sobre mim
+**AI**
 
-Sou o Dany, tenho 34 anos e sou de São Roque - SP. Estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e me especializando como desenvolvedor backend.
+![Claude](https://img.shields.io/badge/Claude-1e1e2e?style=flat-square&logo=anthropic&logoColor=D97757)
 
-Trabalho principalmente com Python e Java, construindo APIs, automatizando tarefas e explorando IA aplicada a projetos reais. Gosto de pegar um problema, entender a fundo e sair com algo funcionando — sempre aprendendo algo novo no caminho.
+**Linguagens**
 
-Esse GitHub é onde guardo meus projetos e experimentos enquanto evoluo nessa jornada. Se quiser trocar uma ideia, os contatos estão logo abaixo.
+![Java](https://img.shields.io/badge/Java-1e1e2e?style=flat-square&logo=openjdk&logoColor=E76F00)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=flat-square&logo=kotlin&logoColor=7F52FF)
 
-## Tecnologias & Ferramentas
+**Frameworks**
 
-#### Linguagens
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1e1e2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1e1e2e?style=flat-square&logo=react&logoColor=61DAFB)
 
-#### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Cloud & Backend**
 
-#### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1e1e2e?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1e1e2e?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-1e1e2e?style=flat-square&logo=cloudinary&logoColor=3448C5)
 
-#### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Database & Tools**
 
-#### Inteligência Artificial
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat-square&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=F05032)
 
-#### Deploy & Cloud
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+---
 
-#### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+### projeto em destaque
 
-## Linguagens em destaque
+**Listinha**
 
-<div align="center">
+Aplicativo de lista de compras inteligente, com inteligência artificial integrada à experiência do usuário.
 
-<img height="170em" src="./profile/top-langs.svg" />
+> 🚧 Em desenvolvimento
 
-</div>
+<!-- Quando o repositório estiver público, adicione o link aqui:
+[→ Ver projeto](URL_DO_REPOSITORIO)
+-->
 
-## Ritmo de commits
+---
 
-<div align="center">
+### contato
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danyyks/Danyyks/output/github-contribution-grid-snake.svg">
-</picture>
+[LinkedIn](https://linkedin.com/in/danyyjonathan) · [Instagram](https://instagram.com/danyyjonathan) · [Email](mailto:danyy.jonathan@gmail.com)
 
-</div>
+---
 
-## Contatos e redes sociais
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyyjonathan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danyyjonathan)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danyyyjonathan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933400707)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=danyy.jonathan@gmail.com)
-
-</div>
+<sub>Code. Automate. Build.</sub>
