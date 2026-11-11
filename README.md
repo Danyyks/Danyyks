@@ -44,9 +44,9 @@ _Construindo aplicações, automações e experiências com inteligência artifi
 
 Aplicativo que transforma receitas em listas de compras organizadas por categoria, com controle de orçamento em tempo real e sincronização via Google. IA de compras planejada para as próximas versões.
 
-> 🚧 Em desenvolvimento
+> Disponível na Google Play
 
-[→ Ver projeto](https://github.com/Danyyks/Listinha-Android)
+[→ Baixar na Google Play](https://play.google.com/store/apps/details?id=com.danyks.listinha) · [→ Ver projeto](https://github.com/Danyyks/Listinha-Android)
 
 ---
 
