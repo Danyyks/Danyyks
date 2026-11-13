@@ -5,7 +5,7 @@ _Criador do [Listinha](https://play.google.com/store/apps/details?id=com.danyks.
 _Aberto a negócios, é só chamar aqui ↓_
 
 [![LinkedIn](profile/badges/linkedin.svg)](https://linkedin.com/in/danyyjonathan)
-[![Instagram](profile/badges/instagram.svg)](https://instagram.com/danyyjonathan)
+[![Instagram](profile/badges/instagram.svg)](https://www.instagram.com/danyyjonathan/)
 [![Gmail](profile/badges/gmail.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=danyy.jonathan@gmail.com)
 
 ### Um pouco mais sobre mim
